@@ -1,8 +1,8 @@
-cd C:\Users\김연호\myprofile  # 프로젝트 폴더로 이동
+cd C:\Users\김연호\myprofile  
 
 git init
 git add .
-git commit -m "완성된 자기소개 웹사이트 업로드"
+git commit -m 
 git remote add origin https://github.com/GEONWON123/myprofile.git
 git branch -M main
 git push -u origin main
