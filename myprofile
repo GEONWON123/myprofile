@@ -3,6 +3,6 @@ cd C:\Users\김연호\myprofile
 git init
 git add .
 git commit -m 
-git remote add origin https://github.com/GEONWON123/myprofile.git
+git remote set-url origin https://github.com/GEONWON123/myprofile.git
 git branch -M main
 git push -u origin main
